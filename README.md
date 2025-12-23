@@ -1,5 +1,5 @@
 # EDA
-EDA PROJECT 
+It is related to EDA-census income dataset
 📊 Exploratory Data Analysis (EDA) – Census Income Dataset
 🔍 Project Overview
 
